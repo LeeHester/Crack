@@ -1,0 +1,9 @@
+C:\source\Crack\DataStructures\DataStructures\bin\Debug\netstandard2.0\DataStructures.deps.json
+C:\source\Crack\DataStructures\DataStructures\bin\Debug\netstandard2.0\DataStructures.dll
+C:\source\Crack\DataStructures\DataStructures\bin\Debug\netstandard2.0\DataStructures.pdb
+C:\source\Crack\DataStructures\DataStructures\obj\Debug\netstandard2.0\DataStructures.csprojResolveAssemblyReference.cache
+C:\source\Crack\DataStructures\DataStructures\obj\Debug\netstandard2.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\source\Crack\DataStructures\DataStructures\obj\Debug\netstandard2.0\DataStructures.AssemblyInfoInputs.cache
+C:\source\Crack\DataStructures\DataStructures\obj\Debug\netstandard2.0\DataStructures.AssemblyInfo.cs
+C:\source\Crack\DataStructures\DataStructures\obj\Debug\netstandard2.0\DataStructures.dll
+C:\source\Crack\DataStructures\DataStructures\obj\Debug\netstandard2.0\DataStructures.pdb
